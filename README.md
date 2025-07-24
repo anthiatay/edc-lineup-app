@@ -2,10 +2,7 @@
 # edc-lineup-app
 🎶 Interactive EDC Las Vegas 2024 lineup viewer built with React + Vite — filter by stage, discover artists, and link directly to their Spotify profiles.
 
-# 🎡 EDC Lineup App — Las Vegas 2024
-
-##🎯 Problem & Solution
-
+## 🎡 Probelm & Solution
 While preparing for EDC Las Vegas 2024, I noticed a common frustration among festival-goers:
 
 EDC’s official lineup doesn’t provide direct links to each artist’s music — just a massive playlist to dig through.
