@@ -29,6 +29,7 @@ function StageBlock({ stage, artists }) {
         "Stereo Bloom": stereoImg,
         "Bionic Jungle": bionicImg
     };
+    console.log(stage, artists);
 
     return (
         <div className="stage-block">
@@ -54,7 +55,20 @@ function StageBlock({ stage, artists }) {
                         onChange={(e) => setSearchQuery(e.target.value)}
                         className="search-bar"
                     />
-
+                    <div className="artist-list">
+                        {artists
+                            .filter((artist) =>
+                                artist.name.toLowerCase().includes(searchQuery.toLowerCase())
+                            )
+                            .map((artist, index) => (
+                                <ArtistCard
+                                    key={index}
+                                    name={artist.name}
+                                    time={artist.time}
+                                    spotify={artist.spotify}
+                                />
+                            ))}
+                    </div>
                 </>
             )}
         </div>
