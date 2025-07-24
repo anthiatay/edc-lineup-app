@@ -15,7 +15,7 @@ An interactive festival lineup viewer inspired by Electric Daisy Carnival Las Ve
 - Fully responsive and visually styled for a festival vibe
 
 ## 🛠 Built With
-
+- CSS, HTML, and Javascript
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - CSS3 (with custom fonts & glowing animations)
