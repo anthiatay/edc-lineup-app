@@ -25,7 +25,7 @@ An interactive festival lineup viewer inspired by Electric Daisy Carnival Las Ve
 ## 📸 Screenshots
 
 <img width="1400" height="797" alt="image" src="https://github.com/user-attachments/assets/d5aa38c5-fcbf-424a-b98f-c27881352b73" />
-<img width="1240" height="893" alt="image" src="https://github.com/user-attachments/assets/0fbf60d1-5ae8-4a2c-8b0c-617f349a7e2c" />
+<img width="1296" height="802" alt="image" src="https://github.com/user-attachments/assets/bb3bcd8b-6d54-48c1-9ade-81d9e1c5cd90" />
 
 
 ## 🌍 Live Site
