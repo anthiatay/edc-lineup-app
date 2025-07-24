@@ -66,16 +66,6 @@ function StageBlock({ stage, artists }) {
                                 spotify={artist.spotify}
                             />
                         ))}
-                    <div className="artist-list">
-                        {artists.map((artist, index) => (
-                            <ArtistCard
-                                key={index}
-                                name={artist.name}
-                                time={artist.time}
-                                spotify={artist.spotify}
-                            />
-                        ))}
-                    </div>
                 </>
             )}
         </div>
