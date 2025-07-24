@@ -4,7 +4,7 @@
 
 # 🎡 EDC Lineup App — Las Vegas 2024
 
-🎯 Problem & Solution
+##🎯 Problem & Solution
 
 While preparing for EDC Las Vegas 2024, I noticed a common frustration among festival-goers:
 
