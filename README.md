@@ -4,7 +4,17 @@
 
 # 🎡 EDC Lineup App — Las Vegas 2024
 
-An interactive festival lineup viewer inspired by Electric Daisy Carnival Las Vegas 2024. Browse artists by day and stage, view customized stage art, and jump directly into their music via Spotify integration.
+🎯 Problem & Solution
+
+While preparing for EDC Las Vegas 2024, I noticed a common frustration among festival-goers:
+
+EDC’s official lineup doesn’t provide direct links to each artist’s music — just a massive playlist to dig through.
+
+So I built a solution.
+
+This app simplifies the discovery process by letting users browse artists by day and stage, then instantly jump to their individual Spotify profiles with one click — no need to search names manually. An interactive festival lineup viewer inspired by Electric Daisy Carnival Las Vegas 2024. Browse artists by day and stage, view customized stage art, and jump directly into their music via Spotify integration.
+
+It’s a cleaner, faster way to explore the lineup — whether you’re planning your schedule or just discovering new artists before the festival.
 
 ## 🚀 Features
 
