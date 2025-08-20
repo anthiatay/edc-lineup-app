@@ -114,8 +114,8 @@ h1 {
 }
 
 @font-face {
-  font-family: 'Ethnocentric Rg It';
-  src: url('./assets/fonts/ethnocentric.otf') format('opentype');
+  font-family: 'Ethnocentric';
+  src: url('./assets/fonts/Ethnocentric Rg It.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
