@@ -115,7 +115,7 @@ h1 {
 
 @font-face {
   font-family: 'ethnocentric';
-  src: url('./ethnocentric.otf') format('opentype');
+  src: url('/ethnocentric.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
