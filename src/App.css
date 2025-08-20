@@ -115,7 +115,7 @@ h1 {
 
 @font-face {
   font-family: 'Ethnocentric';
-  src: url('./assets/fonts/Ethnocentric Rg It.otf') format('opentype');
+  src: url('./assets/fonts/Ethnocentric.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -123,6 +123,7 @@ h1 {
 h1 {
   font-family: 'Ethnocentric', sans-serif;
   text-transform: uppercase;
+  color:white;
   font-size: 2.3rem;
   /* adjust size as needed */
   letter-spacing: 2px;
